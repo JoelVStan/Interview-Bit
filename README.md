@@ -2,6 +2,8 @@
 ## Interview Bit Coding problems.
 
 ### 👉[Arrays](https://github.com/JoelVStan/Interview-Bit/tree/main/Arrays)
-➡ [Perfect Peak Array!](https://github.com/JoelVStan/Interview-Bit/blob/main/Arrays/Perfect%20Peak%20Array.c)
+➡ [Perfect Peak Array!](https://github.com/JoelVStan/Interview-Bit/blob/main/Arrays/Perfect_Peak_Array.c)
 
-➡ [Set Matrix Zeros](https://github.com/JoelVStan/Interview-Bit/blob/main/Arrays/Set%20Matrix%20Zeros.c)
+➡ [Set Matrix Zeros](https://github.com/JoelVStan/Interview-Bit/blob/main/Arrays/Set_Matrix_Zeros.c)
+
+➡ [First Missing Integer](https://github.com/JoelVStan/Interview-Bit/blob/main/Arrays/First_Missing_Integer.c)
